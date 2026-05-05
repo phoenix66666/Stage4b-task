@@ -18,7 +18,7 @@ No `.env` needed — everything hits the live WhisperBox API.
 
 ---
 
-## Encryption Protocol (exactly as WhisperBox requires)
+## Encryption Protocol 
 
 ### Registration
 1. **`generateKeyPair()`** — RSA-OAEP 2048-bit keypair in the browser
